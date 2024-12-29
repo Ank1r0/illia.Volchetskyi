@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/illia.Volchetskyi/static/css/main.1c6b3f70.css",
-    "main.js": "/illia.Volchetskyi/static/js/main.14ddc041.js",
+    "main.js": "/illia.Volchetskyi/static/js/main.b49c5892.js",
     "static/js/453.ed3810f9.chunk.js": "/illia.Volchetskyi/static/js/453.ed3810f9.chunk.js",
     "static/media/linkein.png": "/illia.Volchetskyi/static/media/linkein.31b217c1317f7e476135.png",
     "static/media/github.svg": "/illia.Volchetskyi/static/media/github.de90f8d8230e7f1ed57e7ae36cd87ccb.svg",
     "index.html": "/illia.Volchetskyi/index.html",
     "main.1c6b3f70.css.map": "/illia.Volchetskyi/static/css/main.1c6b3f70.css.map",
-    "main.14ddc041.js.map": "/illia.Volchetskyi/static/js/main.14ddc041.js.map",
+    "main.b49c5892.js.map": "/illia.Volchetskyi/static/js/main.b49c5892.js.map",
     "453.ed3810f9.chunk.js.map": "/illia.Volchetskyi/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c6b3f70.css",
-    "static/js/main.14ddc041.js"
+    "static/js/main.b49c5892.js"
   ]
 }
